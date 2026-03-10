@@ -46,19 +46,35 @@ The project performs several financial data analysis tasks:
 
 ---
 
-## Visualizations
+## Visualizations and Interpretation
 
 ### Stock Price Trends
 
 ![Stock Prices](images/stock_prices.png)
 
+**Interpretation**
+
+Technology stocks experienced strong price growth over the analyzed period. NVIDIA shows particularly rapid growth compared with the other companies. SPY, which represents the broader market, grows more steadily but at a slower rate than the individual technology stocks.
+
+---
+
 ### Cumulative Returns
 
 ![Cumulative Returns](images/cumulative_returns.png)
 
+**Interpretation**
+
+The cumulative return chart illustrates how a $1 investment in each asset would have grown over time. NVIDIA significantly outperforms the other assets, indicating strong long-term growth. Apple and Microsoft also show strong performance relative to the broader market. SPY grows more slowly but reflects the diversified performance of the overall market.
+
+---
+
 ### Volatility Comparison
 
 ![Volatility](images/volatility.png)
+
+**Interpretation**
+
+Volatility measures the variability of daily returns and is commonly used as a proxy for investment risk. The technology stocks exhibit higher volatility compared with SPY, indicating greater price fluctuations. This reflects the higher growth potential but also higher risk associated with individual technology stocks compared to a diversified market index.
 
 ---
 
